@@ -40,7 +40,7 @@ Algorithms part I
 
 <http://coursera.cs.princeton.edu/algs4/assignments/8puzzle.html>
 
-# Week 5 
+# Week 5: KdTree 
 
 **The problem**. Writing a data type to represent a set of points in the unit square using a 2d-tree to support efficient range search and nearest neighbor search. 2d-trees have numerous applications, ranging from classifying astronomical objects to computer animation to speeding up neural networks to mining data to image retrieval.
 
